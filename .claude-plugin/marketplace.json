@@ -1,0 +1,18 @@
+{
+  "name": "hackerrank-attempt-activity-report",
+  "description": "HackerRank Attempt Activity plugin marketplace.",
+  "owner": {
+    "name": "HackerRank"
+  },
+  "plugins": [
+    {
+      "name": "hackerrank-attempt-activity-report",
+      "description": "Rebuild the HackerRank Attempt Activity view from attempt_events as a self-contained HTML report, including the Proctor Mode and Desktop App Mode tests where the product does not show it.",
+      "version": "1.2.0",
+      "source": "./",
+      "author": {
+        "name": "HackerRank"
+      }
+    }
+  ]
+}

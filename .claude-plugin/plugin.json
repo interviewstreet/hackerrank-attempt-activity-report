@@ -1,0 +1,8 @@
+{
+  "name": "hackerrank-attempt-activity-report",
+  "version": "1.2.0",
+  "description": "Rebuild the HackerRank Attempt Activity view from attempt_events as a self-contained HTML report, including the Proctor Mode and Desktop App Mode tests where the product does not show it.",
+  "author": {
+    "name": "HackerRank"
+  }
+}

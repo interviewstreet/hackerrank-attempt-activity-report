@@ -1,0 +1,14 @@
+# Reports contain candidate PII and integrity data. Never commit them.
+output/
+*.attempt.json
+*-attempt-activity.html
+
+# Screenshots of real reports carry candidate names, emails and IDs.
+*.png
+*.jpg
+*.jpeg
+
+# Per-machine client state, not part of the skill.
+.claude/settings.local.json
+
+.DS_Store
